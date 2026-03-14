@@ -1,2 +1,3 @@
 # TryHackMe-Flags-Ive-earned
 THM{FIREWALLS_RULE}
+THM{YOU'VE_GOT_DATA}
