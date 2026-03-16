@@ -57,4 +57,9 @@ THM{4llpccomp0n3nts1d3nt1f13d}
 
 
 
+THM{pc5ucce55fully5t4rt3d}
 
+
+
+
+THM{8_computer_types}
