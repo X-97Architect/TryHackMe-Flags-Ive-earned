@@ -63,3 +63,8 @@ THM{pc5ucce55fully5t4rt3d}
 
 
 THM{8_computer_types}
+
+
+
+
+THM{new_pc_for_free!}
