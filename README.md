@@ -68,3 +68,8 @@ THM{8_computer_types}
 
 
 THM{new_pc_for_free!}
+
+
+
+
+THM{welcome_to_tryhatme!}
