@@ -82,3 +82,24 @@ THM{welcome_to_tryhatme!}
 
 
 THM{your_first_day!}
+
+
+
+
+
+THM{CIA_IS_ABOUT_BALANCE}
+
+
+
+
+THM{CAESAR_CIPHER_MASTER_2026}
+
+
+
+
+THM{mapping_infrastructure!}
+
+
+
+
+THM{defensive_techniques!}
