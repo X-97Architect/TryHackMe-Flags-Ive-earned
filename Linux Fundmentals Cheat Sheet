@@ -1,0 +1,33 @@
+🛡️ Navigation & System Info (Pt. 1 & 2)
+Command & Description
+whoami___Shows the current logged-in user.
+pwd___Print Working Directory (shows exactly where you are).
+ls___-laList all files, including hidden (-a) with details (-l).
+cd___[dir]Change Directory. (cd .. goes up one level).
+file [file] Identifies the actual file type (header analysis).cat 
+[file] Reads the contents of a file to the screen.
+history Shows a list of all previously executed commands.
+touch [name]Creates a new empty file.
+mkdir [name]Creates a new directory.
+cp [src] [dst]Copies a file. Use -r for folders.
+mv [src] [dst]Moves or renames a file/folder.
+rm [file]Deletes a file. Use -rf for folders (Warning: permanent!).
+grep "text" [file]Searches for specific text inside a file.
+find / -name [name]Searches the entire system for a specific file by name.
+🔐 Permissions & Access (Pt. 2)
+ssh [user]@[ip] Securely logs into a remote machine.
+su [user]Switch User (requires that user's password).
+sudo [cmd]Runs a command with root/admin privileges.
+chmod [777] [file]Changes file permissions (Read/Write/Execute).
+chown [user] [file]Changes the owner of a file.
+⚙️ System Management (Pt. 3)
+nano [file] Simple terminal-based text editor.
+apt install [pkg] Installs new software (requires sudo).
+ps aux Lists every running process on the system.
+top Real-time Task Manager (CPU/RAM usage).
+kill [PID] Forces a process to stop using its ID number.
+systemctl [action] [svc] Starts/Stops/Restarts background services (e.g., apache2).
+crontab -e Edits the automation schedule for timed tasks.
+🌐 Networking (Pt. 3)
+ip addrShows your local IP address and network interfaces.
+ping [ip/web]Tests connection to another machine.
